@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of a French Protestant to a Scotishman of the Covenant VVherein one of their chiefe pretences is removed, which is their conformitie with the French churches in points of discipline and obedience.</title>
+            <author>Du Moulin, Peter, 1601-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20966</idno>
+            <idno type="STC">STC 7345</idno>
+            <idno type="STC">ESTC S111088</idno>
+            <idno type="EEBO-CITATION">99846505</idno>
+            <idno type="PROQUEST">99846505</idno>
+            <idno type="VID">11478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1064:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of a French Protestant to a Scotishman of the Covenant VVherein one of their chiefe pretences is removed, which is their conformitie with the French churches in points of discipline and obedience.</title>
+                  <author>Du Moulin, Peter, 1601-1684.</author>
+               </titleStmt>
+               <extent>[4], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Young, and R. Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Peter Du-Moulin the sonne.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eglises réformées de France --  Early works to 1800.</term>
+               <term>Covenanters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11478:1" rendition="simple:additions"/>
+            <pb facs="tcp:11478:1" rendition="simple:additions"/>
+            <p>A LETTER OF A FRENCH PROTESTANT TO A SCOTISHMAN OF THE <hi>COVENANT.</hi> VVherein one of their chiefe pretences is removed, which is their conformitie with the French Churches in points of Diſcipline and Obedience.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Young,</hi> and <hi>R. Badger.</hi> 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:11478:2"/>
+            <pb n="1" facs="tcp:11478:2"/>
+            <head>A LETTER OF A FRENCH PROTESTANT TO A SCOTISHMAN OF THE <hi>COVENANT.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S there hath been for many ages a great relation between France and Scotland for mat<g ref="char:EOLhyphen"/>ters of State, the like hath been in matters of Religion betweene the Proteſtant Churches of both the Kingdomes ever ſince the reformation: But I wiſh that our exam<g ref="char:EOLhyphen"/>ple be not miſtaken, and abuſed to our di<g ref="char:EOLhyphen"/>ſparagement, and your mine, and the perpe<g ref="char:EOLhyphen"/>tuall diſgrace of Chriſtian Religion.</p>
+            <pb n="2" facs="tcp:11478:3"/>
+            <p>For whereas in one of your Petitions to his Majeſtie you are confident,
+<note place="margin">
+                  <hi>Alledged in the large Declara<g ref="char:EOLhyphen"/>tion of his Ma<g ref="char:EOLhyphen"/>jeſtie, pag.</hi> 417.</note> that <hi>your neigh<g ref="char:EOLhyphen"/>bour-Churches will approve all your proceedings;</hi> your neighbour-Churches of France have ſo<g ref="char:EOLhyphen"/>lemnly diſapproved all your proceedings, and herein given good ſatisfaction to his Ma<g ref="char:EOLhyphen"/>jeſtie: For it was ever farre from our wiſhes, that your conformitie with the reformed Churches of France ſhould be miſ-applied as a pretence of your expulſing of your Biſhops, much leſſe a preſident for you to take armes againſt your gracious Soveraigne.</p>
+            <p>Wherefore I will endeavour to remove that falſe colour ſet upon the violent counſels of the Covenant, and ſhew to the world, that for your differences with Epiſcopall authori<g ref="char:EOLhyphen"/>tie, which are now broken into a quarrell, you had neither preſident nor incouragement from us.</p>
+            <p>And ſince it pleaſeth his Majeſtie in the beginning of his Royal Declaration, to make this one of his two ends, <hi>to manifest his juſtice and piety to the reformed Churches abroad;</hi> theſe re<g ref="char:EOLhyphen"/>formed Churches are bound in dutie of thankfulneſſe to ſhew how they reſt ſatisfied of his Majeſties juſtice and pietie.</p>
+            <pb n="3" facs="tcp:11478:3"/>
+            <p>For my part, although I am happily en<g ref="char:EOLhyphen"/>grafted into the body of the Church of Eng<g ref="char:EOLhyphen"/>land, I may be admitted in this caſe to ſpeake as a Frenchman borne, that knoweth the te<g ref="char:EOLhyphen"/>nets of that Church better then ſtrangers, that would abuſe the example of the French to their owne ends: And I am aſſured in my conſcience, that when I was adopted by the Church of England, I was not removed in<g ref="char:EOLhyphen"/>to another Goſpel.</p>
+            <p>This alſo I may affirme of mine owne knowledge, that the French Divines and o<g ref="char:EOLhyphen"/>ther godly men that travell into England, re<g ref="char:EOLhyphen"/>turne home with great ſatisfaction, ſeeing the ſoundneſſe of doctrine and decencie of order ſo well matched together; and joyne their hearty praiſes with the <hi>Te Deum</hi> and <hi>Magnifi<g ref="char:EOLhyphen"/>cat</hi> of our Quires; praiſing God chiefly, be<g ref="char:EOLhyphen"/>cauſe they ſee the puritie of the Goſpel, and the Royall Authority linked together with a moſt neere intereſt in their mutuall conſerva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The conformitie which you claime with the French is triple; with their doctrine, with their diſcipline, and (in the preſent quarrell) with their actions: And the French will
+<pb n="4" facs="tcp:11478:4"/>heartily embrace a Chriſtian conformity with you, ſo farre as you ſhall not draw their neceſsitie into counſell, nor their faults into example.</p>
+            <p>As for the conformitie in doctrine, bleſſed be God that among all the reformed Chur<g ref="char:EOLhyphen"/>ches of Europe there is neither deformity nor difformity in that point: All the reformed Churches profeſſe the ſame holy faith with you; and of that faith the Kings Majeſtie is Defender, of which he hath lately publiſhed many ſolemne proteſtations, to the great ſatiſ<g ref="char:EOLhyphen"/>faction of all good Chriſtians, both within and without the Kingdome. Here let all that love Gods glorie and the union of his Church upon earth,
+<note place="margin">
+                  <hi>Ezra</hi> 7.17.</note> ſay, <hi>Bleſſed be the Lord God of our fathers, who hath put ſuch a thing as this in the Kings heart:</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 61.7.</note> 
+               <hi>The Lord prolong the Kings life, O prepare mercy and truth that may preſerve him.</hi>
+            </p>
+            <p>It were ſuperfluous to prove the conſent of all reformed Churches with the Church of England in points of doctrine: None of them but will ſay as much to the Engliſh Prelates, as <hi>Beza</hi> to Biſhop <hi>Grindall,</hi>
+               <note n="*" place="margin">
+                  <hi>Beza epiſt.</hi> 8. <hi>ad Grindal. Epiſcopum Londmenſem.</hi> Gallicas &amp; veſtras Eccleſi<g ref="char:EOLhyphen"/>as in omnibus fidei capitibus conſentire ar<g ref="char:EOLhyphen"/>bitramur.</note> 
+               <hi>Wee hold that the French Churches agree with yours in all points of faith.</hi>
+            </p>
+            <pb n="5" facs="tcp:11478:4"/>
+            <p>He that ſet forth all the Confeſsions of the Reformed Churches in one volume, hath not loſt his praiſe for concealing his name. Never was a more precious harmonie; none more like a heaven upon earth: ſuch an evident conſent needeth rather praiſes to God then proofes.</p>
+            <p>As for points of Diſcipline, the diffe<g ref="char:EOLhyphen"/>rence of ſome Churches from that of Eng<g ref="char:EOLhyphen"/>land (if charity were on both ſides) ought to ſet forth the conſent in points of faith with more reverence and admiration: As <hi>Irenaeus</hi> writing to <hi>Victor,</hi> about the different Faſting of the Eaſtern and Weſtern Churches,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>The dif<g ref="char:EOLhyphen"/>ference of Faſting</hi> (ſaith he) <hi>confirmeth the union in faith:</hi> For that in ſuch a difference of climats, nations, manners, and policies, there ſhould be ſuch an union in faith, <hi>It is the Lords doing, and it is marvellous in our eyes.</hi>
+            </p>
+            <p>A main point of difference pretended by the Covenanters, is the ſuperioritie of Biſhops, (for I will not ſearch into your other aimes) which you affirme to be Antichriſtian, and contrarie to the Word of God; wherein I ſee not how you can claime conformitie with the French Churches. The French indeed have
+<pb n="6" facs="tcp:11478:5"/>no Biſhops, but they never put downe Bi<g ref="char:EOLhyphen"/>ſhops, nor induced others to put downe Bi<g ref="char:EOLhyphen"/>ſhops: And you know, that our Saviour puts a difference between <hi>breaking of commandements,</hi>
+               <note place="margin">
+                  <hi>Matth.</hi> 5.19.</note> and <hi>teaching men ſo:</hi> Now to have Biſhops is <hi>a commandement,</hi> and none of the leaſt; for it is an Apoſtolicall order: Suppoſe then that the French <hi>breake it,</hi> yet <hi>they doe not teach men ſo;</hi> And I will endeavour to ſhew you that they teach men otherwiſe; and that it is neceſsitie, not choice, that keepeth them from Epiſcopall or<g ref="char:EOLhyphen"/>der. But the Scots <hi>break that commandement, and teach men ſo;</hi> and repreſent the Antichriſt in no other habit then a Rochet and a Miter.</p>
+            <p>That the French Divines <hi>doe not teach men ſo,</hi> and allow not the aboliſhing of Biſhops, it may eaſily bee juſtified: For in the matter of Geneva, there was more Politicall then Theo<g ref="char:EOLhyphen"/>logicall reaſons for refuſing their Biſhop: The Biſhop of Geneva was alſo their Prince, who had ſuch power there, as the Duke in Ve<g ref="char:EOLhyphen"/>nice, and was rather Governour then Sove<g ref="char:EOLhyphen"/>raigne: For the people <hi>had that right to elect foure Syndics,</hi>
+               <note place="margin">
+                  <hi>Theſe you have in a book, called</hi> Le Citadin Genevois.</note> 
+               <hi>and give them full power;</hi> It is the 22. Article of their authenticall Charter: <hi>And with<g ref="char:EOLhyphen"/>out the counſell, conſent, and expreſſe will of thoſe
+<pb n="7" facs="tcp:11478:5"/>Syndics, and of the Citizens, none was to be abſolved or condemned in the Citie.</hi> It is the 14. Article of their Charter: Before any Biſhop was admit<g ref="char:EOLhyphen"/>ted, hee ſwore to obſerve and maintaine theſe liberties, and ſo did the laſt Biſhop, <hi>Ann.</hi> 1523. Who afterwards being found to treat with the Duke of Savoy, to deliver the Citie into his hands, a great uproare aroſe in the Citie, which the Biſhop fearing, fled by night; and when, after many invitations, hee would not returne, the people ſhut the doore after him; not for any difference of Religion, but of State: Yet the people being thus alienated from their Biſhop, was more ſuſceptible of that change of Religion which hapned preſently after, by the comming of <hi>Farell</hi> and <hi>Viret.</hi> In the mean while the Duke of Savoy, being now ſtrengthned with the Biſhops right, began to annoy them. While they were thus tottering, both in Religion and State, <hi>Calvin</hi> came, who having got great authority in the Citie, took in hand the ſettling of that fluctuation; A matter of great difficulty: For to receive their Biſhop, they durſt not, fearing to indanger their Reli<g ref="char:EOLhyphen"/>gion &amp; their Liberties, and fall into the hands of their perpetuall enemie the Duke of Savoy:
+<pb n="8" facs="tcp:11478:6"/>To make another Biſhop they would not, and could not, their old Biſhop being alive: Wherefore they choſe to be without a Biſhop, and rule the Citie by the Syndics, being per<g ref="char:EOLhyphen"/>ſwaded that their Charter gave them no leſſe power: But whether they had any Charter to rule the Church with a mingled Conſiſtorie of Clergie and Laitie, without any Biſhop, <hi>ipſi viderint,</hi> let them defend their own right: My end is onely to ſhew, that in that change of Diſcipline, Neceſsity bare more ſway then Counſell, and Policie then Divinitie.</p>
+            <p>Howſoever, their actions muſt not be im<g ref="char:EOLhyphen"/>puted to the French Churches, Geneva being a body apart, and having intereſts of their own peculiar to themſelves. But the French Chur<g ref="char:EOLhyphen"/>ches never unbiſhopped any Prelate: and of them alſo it may be ſaid, that it was Neceſsi<g ref="char:EOLhyphen"/>tie, not any Theologicall deciſion, that made them frame a Church without Biſhops.</p>
+            <p>For <hi>Calvin,</hi> who had the greateſt hand in their Diſcipline, was more enclined to the Epiſcopacie. In his Confeſsion made in the name of the Churches of France, and preſented to the Emperour, <hi>Anno</hi> 1562. hee profeſſeth it: <hi>Wee would not aboliſh</hi> (ſaith hee)
+<pb n="9" facs="tcp:11478:6"/>
+               <hi>the authoritie of the Church,</hi>
+               <note place="margin">
+                  <hi>Calvin. opuſcul. in confeſſ. Ec<g ref="char:EOLhyphen"/>cleſ Gallic.</hi> Eccleſiae au<g ref="char:EOLhyphen"/>thoritatem vel Paſtorum, aut Super inten<g ref="char:EOLhyphen"/>dentium, qui<g ref="char:EOLhyphen"/>bus Eccleſiae regendae pro<g ref="char:EOLhyphen"/>vincia manda<g ref="char:EOLhyphen"/>ta eſt, ſubla<g ref="char:EOLhyphen"/>tam nolumus: Fatemur ergo Epiſcopos, ſive Paſtores reve<g ref="char:EOLhyphen"/>renter audien<g ref="char:EOLhyphen"/>dos, quatenus pro ſuae fun<g ref="char:EOLhyphen"/>ctionis ratione verbum Dei docent.</note> 
+               <hi>that is of Paſtours and Superintendents, that have the government of the Church committed unto them: Wee confeſſe then, that Biſhops or Paſtours muſt be reverent<g ref="char:EOLhyphen"/>ly heard, as farre as they teach the Word of God according to their function.</hi> Here is for you a publike Declaration of the French Chur<g ref="char:EOLhyphen"/>ches, that they diſallow not the authoritie of Biſhops; and if they had power, would not take them away.</p>
+            <p>In that Confeſsion of faith preſented to <hi>Francis</hi> the firſt of France, I ſee nothing con<g ref="char:EOLhyphen"/>trarie to the Engliſh Diſcipline, if it bee can<g ref="char:EOLhyphen"/>didly interpreted: For the 30<hi rend="sup">th</hi>. Article, that <hi>all true Paſtors have equall power under their Univerſall Biſhop Jeſus Christ,</hi> is confeſſed al<g ref="char:EOLhyphen"/>ſo by the Church of England: for the power which Biſhops and Prieſts have under their Univerſall Biſhop Jeſus Chriſt, is equall, as they are Prieſts. A preheminence and autho<g ref="char:EOLhyphen"/>ritie indeed they have, as Biſhops, and that by Apoſtolicall, and therefore <hi>Divine insti<g ref="char:EOLhyphen"/>tution.</hi> But the power which Chriſt in the Evangeliſts immediately giveth to Paſtours, concerneth only the preaching of the Word, and adminiſtring of the Sacraments, and
+<pb n="10" facs="tcp:11478:7"/>the power of binding and looſing <hi>in foro interiori;</hi> Herein they are all equall, and all Vicars of Chriſt: No Biſhop in England, but, in this ſenſe, will ſubſcribe willingly to this Canon of the Councell of Carthage,
+<note n="*" place="margin">
+                  <hi>Conc. Car<g ref="char:EOLhyphen"/>thag. Can.</hi> 8. Ut ſublimior quidem ſedeat, ſed tamen ſe collegam Presbyterorum agnoſcat.</note> 
+               <hi>That the Biſhop ſits in a higher degree, but yet ac<g ref="char:EOLhyphen"/>knowledges himſelfe colleague to the Prieſts.</hi>
+            </p>
+            <p>But although the Biſhop in his conſecra<g ref="char:EOLhyphen"/>tion receive no new binding and looſing power <hi>in foro interiori,</hi> beſides that which he received when hee was made a Prieſt; yet it is of Apoſtolicall right, that great part of that power diffuſed in the collective bodie of the Clergie, ſhould bee confined to the Bi<g ref="char:EOLhyphen"/>ſhop; leſt the keyes of the Church, being in too many hands, ſhould claſh one againſt another, and there ſhould be playing at faſt and looſe. And <hi>Calvin</hi> agreeth to it, <hi>I never thought it uſefull</hi> (ſaith hee) <hi>to commit the power of excommuni<g ref="char:EOLhyphen"/>cation to every Paſtor;</hi>
+               <note place="margin">
+                  <hi>Calvin. Epiſt. ad Gaſparum Lizetum.</hi> Nunquam utile putavi jus excommuni<g ref="char:EOLhyphen"/>candi permitti ſingulis Paſtoribus: Nam &amp; res odioſa eſt, nee exemplum proba<g ref="char:EOLhyphen"/>bile, &amp; facilis in tyrannidem lapſus, &amp; alium uſum Apoſtoli tradiderunt.</note> 
+               <hi>For it is an odious thing, and an example not to bee approved, and which would ſoone ſlip into tyrannie; and the Apoſtles have delivered another custome.</hi> It is true, that <hi>Calvin</hi> in that Epiſtle will not have <hi>Lizetus</hi> to meddle alone with
+<pb n="11" facs="tcp:11478:7"/>Eccleſiaſticall cenſures; and he is in the right, ſince <hi>Lizetus</hi> was no Biſhop: But hee decla<g ref="char:EOLhyphen"/>reth plainly, that the office of cenſures muſt be limited to certaine men, not promiſcu<g ref="char:EOLhyphen"/>ouſly uſed by every Clergy-man of his owne head: Elſe there would bee ſoone as many petty ſpirituall Tyrants, as there are peeviſh Miniſters in the ſeverall Pariſhes. Had it been in the power of every Prieſt to receive accuſations, and pronounce excommunicati<g ref="char:EOLhyphen"/>ons, Saint <hi>Paul</hi> would not have limited to <hi>Timothies</hi> knowledge the receiving of accuſa<g ref="char:EOLhyphen"/>tions, nor made him alone Judge of the Prieſts.</p>
+            <p>
+               <hi>Calvin</hi> indeed aimed at no ſuch matter, as the generall pulling downe of Biſhops: Hee acknowledgeth, that in the Primitive Church <hi>the</hi>
+               <note n="a" place="margin">
+                  <hi>Calvin. lib.</hi> 2. <hi>Inſtit. cap.</hi> 4. <hi>Art.</hi> 2. Presbyteri ex ſuo numero in ſingulis civita<g ref="char:EOLhyphen"/>tibus unum eligebant, cui<g ref="char:EOLunhyphen"/>ſpecialiter da<g ref="char:EOLhyphen"/>bant titulum Epiſcopi; ne ex aequalitate, ut fieri ſolet, diſ<g ref="char:EOLhyphen"/>ſidia naſceren<g ref="char:EOLhyphen"/>tur.</note> 
+               <hi>Prieſts out of their number would chuſe one in every Citie, to whom they gave the title of Biſhop; leſt that equality, as it is ordinary, ſhould breed con<g ref="char:EOLhyphen"/>tentions.</hi>
+            </p>
+            <p>And in his Epiſtle to the King of
+<note n="*" place="margin">
+                  <hi>Calvin. Epiſt. ad regem Pol. pag.</hi> 140. <hi>&amp;</hi> 141. <hi>Editionis Genevenſis, an.</hi> 1576.</note> Poland, about the reformation of that Kingdome; he ſets downe to the King the order of the Pri<g ref="char:EOLhyphen"/>mitive Church for a patterne, where there were Patriarchs, and Primats, and ſubordi<g ref="char:EOLhyphen"/>nate
+<pb n="10" facs="tcp:11478:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:11478:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:11478:9"/>Biſhops, to tye the whole bodie toge<g ref="char:EOLhyphen"/>ther with the bond of concord: And advi<g ref="char:EOLhyphen"/>ſeth the King to eſtabliſh Biſhops in every Province, and over them an Archbiſhop and Primate of that great Kingdome. And <hi>if the</hi>
+               <note n="b" place="margin">
+                  <hi>Calvin. inſtit. lib</hi> 4 <hi>cap.</hi> 12. <hi>Art.</hi> 6. Sanè ſi veri eſ<g ref="char:EOLhyphen"/>ſent Epiſcopi, aliquid eis hac in parte autho<g ref="char:EOLhyphen"/>ritatis tribue<g ref="char:EOLhyphen"/>rem; non quantum ſibi poſtulant, ſed quantum ad Politiam Ec<g ref="char:EOLhyphen"/>cleſiae ritè or<g ref="char:EOLhyphen"/>dinandam re<g ref="char:EOLhyphen"/>quiritur.</note> 
+               <hi>Popiſh Biſhops were true Biſhops, hee would allow them ſome authoritie; not as much as they chal<g ref="char:EOLhyphen"/>lenge, but as much as</hi> [hee thinkes] <hi>would ſerve for the right ordering of Church government.</hi> That hee would not allow them as much power as they claime, no man can wonder at it, that knoweth the exemptions which they claime from Royall authority, and their incroach<g ref="char:EOLhyphen"/>ments upon the civill power, and their pre<g ref="char:EOLhyphen"/>tended independencie from any but the Pope, whereby they make <hi>regnum in regno,</hi> another kingdome in every kingdome.</p>
+            <p>But although I would not clip their wings ſo ſhort as <hi>Calvin</hi> would have; yet I wiſh for your owne good, that the Churches of Scot<g ref="char:EOLhyphen"/>land would yeeld to Biſhops as much power as <hi>Calvin</hi> doth, even the power of cenſures, and of preſenting and ordaining Prieſts:
+<note n="c" place="margin">
+                  <hi>Calvin. tra<g ref="char:EOLhyphen"/>ctat. de neceſsi<g ref="char:EOLhyphen"/>tate reforman<g ref="char:EOLhyphen"/>dae Eccleſiae.</hi> Poteſtatem nominandi &amp; ordinandi retincant, juſtum illud &amp; ſerium doctrinae &amp; vitae examen reſtituant, quod ſanè multis ſaeculis obſolevit.</note> 
+               <hi>Let Biſhops retaine the power of naming and ordaining</hi>
+               <pb n="13" facs="tcp:11478:9"/>[Prieſts;] <hi>Let them reſtore that juſt and ſerious examination of doctrine and life which is growne out of uſe many ages agone.</hi> It is not then the uſe, but the abuſe of Biſhops, that <hi>Calvin</hi> and the Reformed Churches of France reject. And were it in their power, they would not put downe Biſhops: They onely crave the reformation of Religion, and are ready to ſubmit themſelves to Epiſcopall power.</p>
+            <p>
+               <hi>Zanchius</hi> above all the Outlandiſh Wri<g ref="char:EOLhyphen"/>ters is expreſſe upon that point; who indeed is no Frenchman, but of the like Diſcipline: This is his Proteſtation, <hi>That before God, and in his conſcience,</hi>
+               <note place="margin">
+                  <hi>Hier. Zanch. Theſib. de vera reforman<g ref="char:EOLhyphen"/>darum Eccleſiarum ratione.</hi> Teſtor me coram Deo in mea conſcientia non alio habere loco quàm Schiſmaticorum il<g ref="char:EOLhyphen"/>los omnes qui in parte reformationis Eccleſiarum ponunt nullos habere E<g ref="char:EOLhyphen"/>piſcopos, qui authoritatis gradu ſupra fuos compresbyteros emineant, ubi li<g ref="char:EOLhyphen"/>quidò poſſunt haberi. Praeterea cum D. Calvino, nullo non anathemate dignos cenſeo, quotquot illi Hierarchiae quae ſe Domino Jeſu ſubmittit, ſubjici nolunt.</note> 
+               <hi>he holds them all for no better then Schiſmatickes, that ſet this downe as a part of reformation of the Churches, to have no Biſhops, that have any eminence of degree and authoritie above their true fellow-Prieſts, where they may well be had. And beſides, that he holds with</hi>
+               <note n="*" place="margin">
+                  <hi>That place cited out of Calvin, is in his Treatiſe</hi> de neceſſitate reformandae Eccleſiae.</note> 
+               <hi>Cal<g ref="char:EOLhyphen"/>vin, that they are all worthy of any execration, that will not ſubmit themſelves unto that Hierarchie that ſubmitteth it ſelfe unto the Lord Jeſus
+<pb n="14" facs="tcp:11478:10"/>Chriſt.</hi> Here is a coard with two ſtrings, the authority of two worthy men toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The ſame <hi>Zanchius</hi> ſaith a little before, <hi>Hee that will receive and follow the uſe and the opinion of the uni<g ref="char:EOLhyphen"/>verſall Church,</hi>
+               <note place="margin">
+                  <hi>Ibid.</hi> Qui univerſalis ominium loco<g ref="char:EOLhyphen"/>rum &amp; temporum, uſque ad hanc aeta<g ref="char:EOLhyphen"/>tem, uſum &amp; ſenſum Eccleſiae certum habet, ſequiturque interpretem; facilè intelligit diverſos gradus Presbytero<g ref="char:EOLhyphen"/>rum &amp; Epiſcoporum in gubernatione Eccleſiaſtica eſſe ſecundum Dei ver<g ref="char:EOLhyphen"/>bum, &amp; ſemper fuiſſe. Proinde, ubi vi<g ref="char:EOLhyphen"/>gent, non eſſe abolendos; &amp; ubicunque iniquitas temporum eos abolevit, aut non tulit, eſſe reſtituendos.</note> 
+               <hi>in all times and places unto this age for a certaine interpreter of Gods word; will eaſily underſtand, that the ſeve<g ref="char:EOLhyphen"/>rall degrees of Prieſts and Bi<g ref="char:EOLhyphen"/>ſhops in the Eccleſiaſticall government, are, and e<g ref="char:EOLhyphen"/>ver were according to Gods word; and therefore where they ſtand ſtill, they muſt not bee aboliſhed: And where the contrarietie of times hath aboli<g ref="char:EOLhyphen"/>ſhed, or not ſuffered them, they muſt bee ſet up a<g ref="char:EOLhyphen"/>gaine.</hi>
+            </p>
+            <p>This was alſo the tenet of <hi>Martin Bucer,</hi> who aſsiſted the reverend Biſhops of Eng<g ref="char:EOLhyphen"/>land in the reformation. And although he lived in a Church where Miniſters were equall, hee delivereth himſelfe plainly:
+<note n="a" place="margin">
+                  <hi>Bucer. tract. de reformanda Eccleſia, qui in<g ref="char:EOLhyphen"/>venitur tom.</hi> 11. <hi>conſtitut. Im<g ref="char:EOLhyphen"/>perial.</hi> Annitendum itaque ut ea omnino procurationis Eccleſiaſticae ratio &amp; ordinatio, quam Canones Epiſcopis &amp; Metropolitanis praeſcribunt, reſtituatur &amp; ſervetur.</note> 
+               <hi>We muſt endeavour, that all the manner and diſtribu<g ref="char:EOLhyphen"/>tion
+<pb n="15" facs="tcp:11478:10"/>of Eccleſiaſticall government, which the Ca<g ref="char:EOLhyphen"/>nons preſcribe unto Biſhops and Metropolitans, bee reſtored and maintained.</hi>
+            </p>
+            <p>
+               <hi>Beza</hi> himſelfe, who preferred equalitie before ſuperioritie in the Church, yet hath declared his diſlike of thoſe that reſiſted Epiſcopall power where it was eſtabli<g ref="char:EOLhyphen"/>ſhed: For in an Epiſtle of his to ſome brethren of England, that would bee ru<g ref="char:EOLhyphen"/>led by him rather then their Biſhops at home, <hi>hee</hi>
+               <note n="b" place="margin">
+                  <hi>Beza Epiſt.</hi> 12. <hi>ad quoſ<g ref="char:EOLhyphen"/>dam Anglica<g ref="char:EOLhyphen"/>rum Eccleſia<g ref="char:EOLhyphen"/>rum fratres.</hi> Hortamur, ut omni animo<g ref="char:EOLhyphen"/>rum exacerba<g ref="char:EOLhyphen"/>tione depoſi<g ref="char:EOLhyphen"/>tâ, ſalvâ ma<g ref="char:EOLhyphen"/>nente doctri<g ref="char:EOLhyphen"/>nae ipſius ve<g ref="char:EOLhyphen"/>ritate, &amp; ſanâ conſcientiâ, alii alios pati<g ref="char:EOLhyphen"/>enter ferant, Regiae Maje<g ref="char:EOLhyphen"/>ſtati clemen<g ref="char:EOLhyphen"/>tiſsimae, &amp; omnibus Prae<g ref="char:EOLhyphen"/>ſulibus ſuis ex animo obſe<g ref="char:EOLhyphen"/>quantur.</note> 
+               <hi>exhorteth them, that leaving all bitterneſſe, as long as the truth of the doctrine, and puritie of conſcience was ſafe, they would beare one another with patience, and obey the Queenes moſt gracious Majeſtie, and all their Pre<g ref="char:EOLhyphen"/>lates with a free heart.</hi>
+            </p>
+            <p>And writing to Biſhop <hi>Grindall,</hi> hee com<g ref="char:EOLhyphen"/>mends <hi>his</hi>
+               <note n="c" place="margin">
+                  <hi>Idem Epiſt.</hi> 23. <hi>ad Epiſcop. Grindal.</hi> Quòd tu igitur quorundam <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> pertuliſti, Reverendiſsime vir, in eo ſanè inſigne patientiae &amp; lenitatis Chri<g ref="char:EOLhyphen"/>ſtianae ſpecimen edidiſti, quo majore poſthac poenâ digni erunt, qui porro authorita<g ref="char:EOLhyphen"/>tem tuam aſpernabuntur.</note> 
+               <hi>Chriſtian lenitie and patience, for bearing with the ſelfe-conceited pride of ſome,</hi> and ſaith, that <hi>they ſhall deſerve a greater puniſhment that will reject againe his autho<g ref="char:EOLhyphen"/>ritie.</hi>
+            </p>
+            <pb n="16" facs="tcp:11478:11"/>
+            <p>I confeſſe this was much from <hi>Beza,</hi> who was none of the beſt friends to the Epiſcopall degree; but yet his deſire of concord in the Church, and obedience to publike order, was greater then his aver<g ref="char:EOLhyphen"/>ſion from Biſhops: And I wiſh that many among you were no worſe diſpo<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>The latter Divines among the French are very expreſſe upon this point: My Reverend Father Doctor <hi>Du Moulin</hi> in his
+<note n="*" place="margin">
+                  <hi>Peter Du Moulin in his</hi> Buckler of the faith, <hi>upon the</hi> 30. <hi>Article of the French Con<g ref="char:EOLhyphen"/>feſsion, Sect.</hi> 124.</note> 
+               <hi>Buckler of the Faith,</hi> is altogether for E<g ref="char:EOLhyphen"/>piſcopacie, and proveth the Antiquitie of it, and that it begun a yeere after our Sa<g ref="char:EOLhyphen"/>viours death: And ſheweth how the A<g ref="char:EOLhyphen"/>poſtles were the founders of that order, ſending the Reader to the 32 Chapt. of the booke of Preſcriptions by <hi>Tertullian,</hi> where hee reckoneth the Apoſtolicall Churches, whoſe Biſhops were eſtabliſhed by the A<g ref="char:EOLhyphen"/>poſtles.</p>
+            <p>And whereas it is alledged againſt the Epiſcopall degree, that there was in the Primitive Church two Biſhops in one Towne; hee tells you, that <hi>in all the An<g ref="char:EOLhyphen"/>tiquitie
+<pb n="17" facs="tcp:11478:11"/>it is hard to find three or foure exam<g ref="char:EOLhyphen"/>ples of two Biſhops in one Towne:</hi>
+               <note place="margin">Ibid.</note> 
+               <hi>for the ge<g ref="char:EOLhyphen"/>nerall cuſtome was againſt it, as</hi> Theodoret, Chryſoſtome, <hi>and</hi> Hierome <hi>upon the firſt to the Philippians witneſſe, and Saint</hi> Auſtin in his 110<hi rend="sup">th</hi>. <hi>Epiſtle.</hi>
+            </p>
+            <p>There alſo hee complaineth, as farre as hee may, of the diſorders that follow e<g ref="char:EOLhyphen"/>qualitie, relating and allowing the juſt ob<g ref="char:EOLhyphen"/>jections of the Engliſh Clergie in theſe words: <hi>They ſay,</hi> AND THAT WITH GOOD REASON, <hi>that no ſocietie, no family, no common<g ref="char:EOLhyphen"/>wealth, can proſper without ſome degrees of ſuperio<g ref="char:EOLhyphen"/>ritie; and that it is ſo among the Angels, and in the government of the univerſall World; That God eſtabliſhed degrees of ſuperioritie in his Church under the Old Teſtament: They ſay, that to place a man of little capacitie, and newly recei<g ref="char:EOLhyphen"/>ved into the Miniſterie in like degree with an ancient Miniſter of the Church, whom God hath endowed with more gifts, and which hath ſer<g ref="char:EOLhyphen"/>ved a long time in the Miniſterie with commen<g ref="char:EOLhyphen"/>dation, is the way to nouriſh pride in the younger, and to diſhonour thoſe whom God hath honou<g ref="char:EOLhyphen"/>red, and to induce confuſion: As alſo, that there<g ref="char:EOLhyphen"/>by
+<pb n="16" facs="tcp:11478:12"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:11478:12"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:11478:13"/>the holy Miniſtery is become contemptible; and that the ſuperioritie of the Biſhops of England hath been approved by the moſt worthy Paſtours of our Churches.</hi>
+            </p>
+            <p>How can one ſay more, living under a different Diſcipline? Any man may per<g ref="char:EOLhyphen"/>ceive, that hee ſpeaketh feelingly, as one that had an eſpeciall knowledge and ex<g ref="char:EOLhyphen"/>perience of the inconveniences of his Di<g ref="char:EOLhyphen"/>ſcipline: And that hee thinkes more yet then he ſaith.</p>
+            <p>In the concluſion, hee craveth a fa<g ref="char:EOLhyphen"/>vourable conſtruction of all that the Re<g ref="char:EOLhyphen"/>formed Divines of thoſe Churches write againſt Biſhops: <hi>If ſometimes</hi> (ſaith he) <hi>we ſpeake againſt the authoritie of Biſhops, we con<g ref="char:EOLhyphen"/>demne not Epiſcopall order in it ſelfe, but ſpeak onely of the corruption which the Church of Rome hath brought into the Epiſcopacie, making it a temporall principalitie depending upon the Pa<g ref="char:EOLhyphen"/>pall throne.</hi>
+            </p>
+            <p>As hee teacheth that true doctrine in his bookes, hee traineth his Scholars in the ſame: This Theſis was lately de<g ref="char:EOLhyphen"/>fended by him in the Academy of Se<g ref="char:EOLhyphen"/>dan,
+<pb n="19" facs="tcp:11478:13"/>where hee is Doctor of the Chaire:
+<note n="*" place="margin">
+                  <hi>Petrus Molinaeus, Theſib. de no<g ref="char:EOLhyphen"/>tis Eccleſiae, part.</hi> 2. <hi>Theſ.</hi> 33. Epiſco<g ref="char:EOLhyphen"/>pos Angliae poſt converſionem ad fidem, &amp; ejuratum Papiſmum, aſ<g ref="char:EOLhyphen"/>ſerimus fuiſſe fideles Dei ſervos, nec debuiſſe deſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere munus vel titulum Epiſcopi.</note> 
+               <hi>Wee affirme that the Biſhops of England, after their converſion and abjuration of Popery, were Gods faithfull ſervants, and that they ought not to forſake the of<g ref="char:EOLhyphen"/>fice or title of Biſhop.</hi>
+            </p>
+            <p>In his Bible full of marginall notes written with his owne hand, hee ex<g ref="char:EOLhyphen"/>poundeth this Text, <hi>Titus</hi> 1.5. <hi>Therefore I left thee in Greece, that thou ſhouldeſt ſet in order the things that are wanting, and or<g ref="char:EOLhyphen"/>daine Elders in every Citie as I have appoin<g ref="char:EOLhyphen"/>ted thee:</hi> This is his comment upon it,
+<note n="a" place="margin">Oportuit Tito datam aliquam <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in caeteros ſymmyſtas, &amp; jus <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ut &amp; quod Ti<g ref="char:EOLhyphen"/>motheo dicitur, <hi>Ne recipe accuſa<g ref="char:EOLhyphen"/>tionem contra Presbyterum,</hi> dare videtur Timotheo tribunal ſupra Miniſtros. Adde &amp; illud de An<g ref="char:EOLhyphen"/>gelo Epheſi: Nec ſi ſuperioritas eſ<g ref="char:EOLhyphen"/>ſet res mala, Apoſtolis data eſſet poteſtas in caeteros.</note> 
+               <hi>This imports that ſome prebe<g ref="char:EOLhyphen"/>minence was given to</hi> Titus <hi>a<g ref="char:EOLhyphen"/>bove his other colleagues, and the right of conferring orders: As alſo that which is ſaid to</hi> Timothy, Receive no accu<g ref="char:EOLhyphen"/>ſation againſt a Presbyter, <hi>ſeemeth to give unto</hi> Timothy <hi>a tribu<g ref="char:EOLhyphen"/>nall over other Ministers. The like is im<g ref="char:EOLhyphen"/>plyed in that Text of the Angell of the
+<pb n="20" facs="tcp:11478:14"/>Church of Epheſus</hi> [Revel. 2.1. where there is but one Angell mentioned, though there were many Prieſts in the Citie:] <hi>And if ſuperioritie were an evill thing, God would not have given power to the Apostles over the reſt of the Clergie.</hi> Theſe are his private and ſerious thoughts upon that point, wherein hee ſought no mans ſatiſ<g ref="char:EOLhyphen"/>faction but his owne.</p>
+            <p>This is alſo the drift of learned <hi>Cha<g ref="char:EOLhyphen"/>mier</hi> in his Booke of the Papall Monar<g ref="char:EOLhyphen"/>chie: For hee runneth not to extremes, as you doe; As though, becauſe there muſt bee no Univerſall Biſhop, there muſt bee no Dioceſan: All his diſcourſe comes to this,
+<note n="c" place="margin">
+                  <hi>Chamier de Papali Monarchia, lib.</hi> 3. <hi>cap.</hi> 14. <hi>Art.</hi> 11. In Eccleſiis etiamſi ſingulos aſſignari Epiſco<g ref="char:EOLhyphen"/>pos conſultiùs exiſtimetur, tamen omnibus unum imponendum nul<g ref="char:EOLhyphen"/>la ratio evincit.</note> 
+               <hi>That although it is thought more convenient to aſsigne Biſhops unto the ſeverall Churches, yet it can bee proved with no reaſon, that there muſt bee one ſet over all;</hi> leaving that ground for granted, that it is more conveni<g ref="char:EOLhyphen"/>ent to aſsigne Biſhops unto the ſeverall Churches.</p>
+            <pb n="21" facs="tcp:11478:14"/>
+            <p>It is true, he ſaith,
+<note place="margin">
+                  <hi>Lib.</hi> 10. <hi>cap.</hi> 5.</note> that the government of the Church is not Monarchicall, but A<g ref="char:EOLhyphen"/>riſtocraticall;
+<note place="margin">
+                  <hi>Lib.</hi> 10. <hi>cap.</hi> 7. <hi>Art.</hi> 8. Ariſto<g ref="char:EOLhyphen"/>cratia Epiſco<g ref="char:EOLhyphen"/>porum regi<g ref="char:EOLhyphen"/>men, quae ne tum quidem ſublata eſt cum inducti ſunt Metropolitani qui ſibi ſubje<g ref="char:EOLhyphen"/>ctos Epiſcopos pro collegis habebant.</note> for he cals <hi>Ariſtocracie the go<g ref="char:EOLhyphen"/>vernment of Biſhops, which Ariſtocracie was not taken away, when Metropolitanes were brought in that uſed the Biſhops ſubject unto them as Colleagues.</hi>
+            </p>
+            <p>He cannot more evidently condemne the Democracie of his Church, than by ſaying that the government of the Church is Ariſtocraticall; and the Biſhops of Eng<g ref="char:EOLhyphen"/>land take not ſo much upon themſelves, as he aſcribeth unto the firſt Biſhops.
+<note n="*" place="margin">
+                  <hi>Ibid. C.</hi> 5. <hi>Art.</hi> 6 Conſtat i<g ref="char:EOLhyphen"/>gitur ne tum quidem cum hie Epiſcopo<g ref="char:EOLhyphen"/>rum à Presby<g ref="char:EOLhyphen"/>teris diſtincto<g ref="char:EOLhyphen"/>rum ordo ſive gradus eſt con<g ref="char:EOLhyphen"/>ſtitutus, Epi<g ref="char:EOLhyphen"/>ſcopos fuiſſe tanquam Mo<g ref="char:EOLhyphen"/>narchas qui po<g ref="char:EOLhyphen"/>teſtatem habe<g ref="char:EOLhyphen"/>rent in Cleru<g ref="char:cmbAbbrStroke">̄</g>, ſed <hi>Principes Electos</hi> qui re<g ref="char:EOLhyphen"/>bus deliberan<g ref="char:EOLhyphen"/>dis praeeſſent ficut neceſſe eſt in omni Ari<g ref="char:EOLhyphen"/>ſtocratia.</note> 
+               <hi>It is certaine</hi> (ſaith he) <hi>that even when the order or degree of Biſhops diſtinct from that of Prieſts was eſtabliſhed, the Biſhops were not like Mo<g ref="char:EOLhyphen"/>narchs, having power over the Clergie, but</hi> ELE<g ref="char:EOLhyphen"/>CTED PRINCES, <hi>ſet over the deliberation and adminiſtration of buſineſſes, as it is ne<g ref="char:EOLhyphen"/>ceſſary in all Aristocracies.</hi>
+            </p>
+            <p>If you object, ſince your countreymen are ſo good friends unto Epiſcopacie, What is the reaſon that their practice is quite con<g ref="char:EOLhyphen"/>trary? Why have they no Biſhops? Why is parity of Miniſters commanded in their Diſcipline?</p>
+            <pb n="22" facs="tcp:11478:15"/>
+            <p>
+               <hi>Si licet, et placidirationem admittitis, edam.</hi> I hope to ſhew to them that have ſome charity and equity, that the French have ſuch reaſons for it, which the Church of Scotland cannot borrow from them.</p>
+            <p n="1">I. The Proteſtants of France were for<g ref="char:EOLhyphen"/>ced, after a ſort, to diſlike Biſhops, by the cruell uſage which they received from them; they will ſay with the Authour of the Apologie of the Confeſſi<g ref="char:EOLhyphen"/>on of Auſpurg,
+<note place="margin">
+                  <hi>Apolog. Confeſ. Auguſt. Art.</hi> 14. Nos ſummâ voluntate cupimus conſervare politiam Eccleſiaſti<g ref="char:EOLhyphen"/>cam, &amp; gradus in Eccleſia factos: Sed Epiſcopi Sacerdotes noſtros aut cogunt hoc doctrinae genus quod confeſſi ſumus abjicere ac damnare, aut novâ &amp; inaud itâ crudelitate miſer os &amp; innocentes occidunt: Hae cauſae impediunt quò minùs agnoſcant hos Epiſco<g ref="char:EOLhyphen"/>pos noſtri Sacerdotes.</note> 
+               <hi>Wee deſire with all our heart to preſerve the Eccleſiaſticall Policie, and the degrees establiſhed in the Church: But the Biſhops either conſtraine our Prieſts to renounce and con<g ref="char:EOLhyphen"/>demne the Doctrine of our Con<g ref="char:EOLhyphen"/>feſsion, or kill the poore innocent men with new and unheard of cruelty: Theſe are the cauſes why our Prieſts will not acknowledge thoſe Biſhops.</hi> And the reformed Churches may ſay of ſome of the Popiſh Biſhops, what S. <hi>Bernard</hi> was ſaying of thoſe of his time,
+<note n="*" place="margin">
+                  <hi>Bern. in Regist. Epiſt. ad Maur. lib.</hi> 4. <hi>Epiſt.</hi> 32. Heu, heu Do<g ref="char:EOLhyphen"/>mine Deus, Ipſi ſunt in perſe<g ref="char:EOLhyphen"/>cutione tua pri<g ref="char:EOLhyphen"/>mi, qui viden<g ref="char:EOLhyphen"/>tur in Eccleſm primatum dili<g ref="char:EOLhyphen"/>gere.</note> 
+               <hi>Alas, alas Lord God, they are the for<g ref="char:EOLhyphen"/>most in perſecuting of thee, that ſeeme to love primacie in thy Church.</hi> It is the leſſe wonder
+<pb n="23" facs="tcp:11478:15"/>then, if after the fearefull executions at <hi>Ca<g ref="char:EOLhyphen"/>brieres</hi> and <hi>Merindol</hi> by the inſtigation of ſome Popiſh Biſhops, they were afraid of their very name.</p>
+            <p n="2">II. It is moſt conſiderable, that the re<g ref="char:EOLhyphen"/>formation began in France among the peo<g ref="char:EOLhyphen"/>ple, but in England it began in the Court. The French reformers were Prieſts, but the Engliſh reformers, under the King, were Biſhops; and the French Prieſts could not prevaile with their Biſhops, as the King and Biſhops of England over their Clergie; For the higher ſpheres are not carried by the inferiour, but the inferiour by the ſupe<g ref="char:EOLhyphen"/>riour: It was much that the French Prieſts could get ſome retrogradation by their owne courſe, againſt the rapidity of the higher ſphere. The reformation began a<g ref="char:EOLhyphen"/>mong the people and inferiour Clergie, and there it ſtayed; Therefore the Diſcipline is popular, and it was not eaſie for them that were oppoſed by Biſhops to make Biſhops. In England the ſacred oyntment of the Goſpell was powred upon the head, and thence it fell about upon all the limbs, and to the hemmes of the garment; In
+<pb n="24" facs="tcp:11478:16"/>France, it was powred upon ſome limbs onely; whence becauſe it could not mount to the Head, the Diſcipline alſo wants a Head: Neither could that holy dew ſpread ſo well, becauſe it deſcended not from the hils. Certainly the Diſcipline of France de<g ref="char:EOLhyphen"/>ſerveth rather compaſſion, than invectives. And, to ſpeake properly, they <hi>refuſe</hi> not Bi<g ref="char:EOLhyphen"/>ſhops, but they <hi>want</hi> Biſhops. If you ſay, that the reformation in Scotland began al<g ref="char:EOLhyphen"/>ſo among the people; You know that the worke was never perfected, till your late great King put the laſt hand to it, by refor<g ref="char:EOLhyphen"/>ming and reſtoring Biſhops: Which if you will not acknowledge for a perfecting, I am ſure the French (with whom you claim conformity) would in the like caſe.</p>
+            <p n="3">III. Beſides, the reformed Churches of France, want means to maintain Biſhops, and with much adoe maintaine poore Le<g ref="char:EOLhyphen"/>ctures. For although the Epiſcopall power be ſpirituall; yet without temporall means, it cannot keep either power or reſpect, and not ſo much as ſubſiſtance: Whence they gather, that it is better to want Biſhops, than to expoſe Epiſcopacie to the ſcorne of adverſaries.</p>
+            <pb n="25" facs="tcp:11478:16"/>
+            <p n="4">IV. Alſo it would provoke envie and jealouſie, if there were two Biſhops in one Dioeceſſe, and would but draw oppreſſion upon the weaker ſide.</p>
+            <p n="5">V. And if a generall converſion hap<g ref="char:EOLhyphen"/>pened, (which God in his mercy bring to paſſe) two Biſhops ſhould meet in one See, and neither would yeeld to his fellow: A conſideration which would ever keepe the erroneous Biſhop from his converſion.</p>
+            <p n="6">VI. The reformed Church of France living under the croſſe, and expecting the generall converſion, is better without Bi<g ref="char:EOLhyphen"/>ſhops; for it is a body prepared for obedi<g ref="char:EOLhyphen"/>ence, whenſoever the Popiſh Bishops shall reforme the Church, and themſelves. And once they were brought to that tryall, as you may read in an Epiſtle of <hi>Peter Martyr</hi> to <hi>Beza.</hi> The Bishop of Troyes (who was borne Prince of Melfe) having abjured Popery, began to preach the pure Word of God in his Cathedrall Church; and ſent for the Elders of the reformed Church, to know whether they would confirme and acknowledge him for their Biſhop: Which they all with one conſent did, and ſubmit<g ref="char:EOLhyphen"/>ted
+<pb n="26" facs="tcp:11478:17"/>themſelves unto his authority. There is none, I dare ſay, of all the Churches of France, but would doe as much in the like caſe. None but would obey Biſhops, if Biſhops would reforme and obey God. Till God extend ſo much mercy upon that Kingdome, the poore Churches will ſtay for the leiſure of the Biſhops, and keepe themſelves in an eſtate fit for obedience.</p>
+            <p n="7">VII. Neither would their King ſuffer them to chuſe Biſhops of their own, if they would attempt it. For ſince their Synods provoke jealouſie, a Biſhops Court would provoke more jealouſie; and authority con<g ref="char:EOLhyphen"/>tinued in one man would be more obnoxi<g ref="char:EOLhyphen"/>ous to envie and obloquie, then conſulta<g ref="char:EOLhyphen"/>tions of amultitude, intermitted from Sy<g ref="char:EOLhyphen"/>nod to Synod, and under ſeverall Preſi<g ref="char:EOLhyphen"/>dents, <hi>et ad tempus.</hi> Had our gracious King <hi>Charles</hi> and his Counſell the ſame neceſſitie to tolerate the Papiſts, as <hi>Henry</hi> the IV. of <hi>France</hi> had to reward the Proteſtants, that were a ſtrong body, and by whom he had beene promoted to the Crown; yet I think not that his Majeſtie would ſuffer them to have Biſhops, or admit of any juriſdiction,
+<pb n="27" facs="tcp:11478:17"/>but immediately depending upon him. The reformed Churches of France have no ju<g ref="char:EOLhyphen"/>riſdiction, and looke for none; and if your Presbyteries of Scotland would containe themſelves in the ſame modeſtie, the Cove<g ref="char:EOLhyphen"/>nant would go down, and the King ſhould be obeyed.</p>
+            <p>Of all theſe reaſons there is none that can ſerve your turne; wherefore our want of Biſhops cannot be a preſident for your put<g ref="char:EOLhyphen"/>ting down of Biſhops.</p>
+            <p>Since you live under no croſſe, and have ſuch a gracious Defender of the faith for your Soveraigne, and both the Kingdoms of this Iſland profeſſe the ſame holy Do<g ref="char:EOLhyphen"/>ctrine; to frame another Eccleſiaſticall Di<g ref="char:EOLhyphen"/>ſcipline beſides that which his Majeſtie al<g ref="char:EOLhyphen"/>loweth, and the Church hath kept for ma<g ref="char:EOLhyphen"/>ny ages, it is framing two livers in a body that hath but one head and one heart; For of this Iſland, the King is the head, and Re<g ref="char:EOLhyphen"/>ligion is the heart; both the which would have but one Diſcipline, as it were one li<g ref="char:EOLhyphen"/>ver to diſperſe blood and ſpirit into the ſe<g ref="char:EOLhyphen"/>verall parts of the whole body, with one and the ſame Oeconomie eyere where.
+<pb n="28" facs="tcp:11478:18"/>Certainly if France had but one heart for Religion, I am perſwaded they would ne<g ref="char:EOLhyphen"/>ver ſticke for a different Oeconomie of Di<g ref="char:EOLhyphen"/>ſcipline.</p>
+            <p>And the truth is, neither you nor they have a ſetled Diſcipline, and therefore both need leſſe to ſtand upon it. This is the laſt Article of the French Diſcipline; <hi>Theſe things which are here contained concerning the Diſcipline, are not ſo decreed, but that if the be<g ref="char:EOLhyphen"/>nefit of the Church do require it, they may be al<g ref="char:EOLhyphen"/>tered.</hi> Neither doe the French buſie their heads about points of Diſcipline; elſe it would be ſeene in their writings. But whereſoever they like the Doctrine, they embrace the Diſcipline.</p>
+            <p>In the yeare 1615. my reverend Father was ſent for by King <hi>Iames</hi> of glorious and bleſſed memory; ſome diſcontented bre<g ref="char:EOLhyphen"/>thren in London ſeeing him highly favou<g ref="char:EOLhyphen"/>red by his Majeſty, came to him with a bill of grievances to be repreſented to the King; which my Father having peruſed, returned it unto them againe, ſaying, That their exce<g ref="char:EOLhyphen"/>ptions were frivolous.</p>
+            <p>For Ceremonies, and other points of
+<pb n="29" facs="tcp:11478:18"/>Diſcipline, I doe not finde you confor<g ref="char:EOLhyphen"/>mable with the French: Whether you ce<g ref="char:EOLhyphen"/>lebrate the holy Communion with ſuch reverence as they do in France, let your owne conſciences anſwer. You know there are two geſtures of praying practi<g ref="char:EOLhyphen"/>ſed from the beginning in the Church, kneeling, and ſtanding: The Engliſh pray kneeling at the Communion, the French ſtanding. For they ſit not at the Table, like the Dutch (wherein the French Church of London, conſiſting moſt of Wallons, followeth the Dutch) but walke to the holy Table, and there with a reverent congey receive the Sacrament, which the people taketh not in the diſh, as it is with the Dutch, but the Mini<g ref="char:EOLhyphen"/>ſter delivereth it to every Communicant. When I received in my countrey, the Mi<g ref="char:EOLhyphen"/>niſter uſed theſe words: <hi>It is the body of the Lord Ieſus Chriſt which ſuffered for your ſinnes. It is the blood of the Lord Ieſus Chriſt which was ſhed for your ſinnes;</hi> And it is an expreſſe Article of their Diſcipline, <hi>That the due reverence belonging to the holy Communion,</hi>
+               <note place="margin">
+                  <hi>Cap.</hi> 12. <hi>Art.</hi> 12</note> 
+               <hi>be carefully maintained.</hi>
+            </p>
+            <pb n="30" facs="tcp:11478:19"/>
+            <p>The diſtribution of the Cup by a Lay-Deacon is worne out of uſe among them: and whereas it was brought in, in the be<g ref="char:EOLhyphen"/>ginning, and in time of perſecution, it was afterwards removed,
+<note place="margin">
+                  <hi>Cap.</hi> 12. <hi>Art.</hi> 9.</note> by a Canon of their Diſcipline, and by way of fact, in all the Churches.</p>
+            <p>And whereas at the firſt (as in all begin<g ref="char:EOLhyphen"/>nings of reformation) every one taught his neighbour;
+<note place="margin">Jbid.</note> and, for want of Miniſters, Lay Deacons would catechize; It was de<g ref="char:EOLhyphen"/>clared by an Article of their Diſcipline, That <hi>the office of thoſe Deacons is not to preach the Word of God, nor to adminiſter the Sacraments.</hi>
+            </p>
+            <p>As for the power of their Lay-Elders, it is little more than the office of Churchwar<g ref="char:EOLhyphen"/>dens in England: Their office is to look to the diſorders of the flocke, and give ac<g ref="char:EOLhyphen"/>count of it to the Conſiſtory, as Church<g ref="char:EOLhyphen"/>wardens put in their Preſentments in the Spirituall Court; A voice they have in the Cenſures, but the determination and pro<g ref="char:EOLhyphen"/>nouncing of the Cenſure belongs to the Miniſter. They, and the people together, may admit or refuſe a Miniſter choſen by the Synod, (if the King give way to it;)
+<pb n="31" facs="tcp:11478:19"/>And ſo it muſt needs be, where there is neither Biſhop, nor Living, nor right of Pa<g ref="char:EOLhyphen"/>tronage.
+<note place="margin">
+                  <hi>Chamier Tom.</hi> 2. <hi>Lib.</hi> 5. <hi>c.</hi> 2. Nos certe praeter electorum Miniſtro<g ref="char:EOLhyphen"/>rum approbationem vel reproba<g ref="char:EOLhyphen"/>tionem, nullas eſſe partes ple<g ref="char:EOLhyphen"/>bis cenſomus in Eccleſiaſtico re<g ref="char:EOLhyphen"/>gimine.</note> 
+               <hi>We hold indeed</hi> (ſaith Chamier) <hi>that beſides approving or refuſing the Miniſters choſen, the Laity hath nothing to doe in the government of the Church.</hi> This is all the power of the Laity. No mention there of <hi>ruling Elders, that have alwayes the caſt<g ref="char:EOLhyphen"/>ing voice,</hi>
+               <note place="margin">
+                  <hi>Page</hi> 424. <hi>of his Majeſties large Declaration.</hi>
+               </note> of which his Majeſty ſaith very truly, <hi>That it is a courſe unheard of in any Church, and in any age.</hi>
+            </p>
+            <p>The notable difference betweene the French Elders and the Scottiſh,
+<note place="margin">
+                  <hi>In the Yeare</hi> 1631.</note> was juſtifi<g ref="char:EOLhyphen"/>ed, not long ſince, by one M. <hi>Adam Stewart,</hi> a Scottiſhman, heretofore Reader of Philo<g ref="char:EOLhyphen"/>ſophie in Sedan, who, finding there the Conſiſtory ruled (as it ought to be) by the Clergie of the place, kept a great coyle to raiſe the power of the Lay-Elderſhip, which had no ſuch ambition, and grew ſo violent in his courſe, that after a long for<g ref="char:EOLhyphen"/>bearance, and moderation of the Miniſters, they were forced to excommunicate him, and crave the Princes helpe, who baniſhed him out of his dominions. Being put out
+<pb n="32" facs="tcp:11478:20"/>of Sedan, he went to Paris, where he offered to ſtirre the ſame matter, but he had no better ſucceſſe there.</p>
+            <p>Neither ſhall ye finde among the Pro<g ref="char:EOLhyphen"/>teſtants of France, that averſion from the Spirituall Courts which is among you. For although they have more rea<g ref="char:EOLhyphen"/>ſon to hate the Spirituall Courts of Po<g ref="char:EOLhyphen"/>pery, by whom they have ſuffered much; yet the Canons of their Diſcipline allow them to reſort to the Spirituall Courts, to ſue for their right,
+<note place="margin">
+                  <hi>Cap.</hi> 14. <hi>Art.</hi> 8.9. <hi>&amp;</hi> 10.</note> and Proteſtant Advo<g ref="char:EOLhyphen"/>cates are allowed to plead there.</p>
+            <p>And which is more, Proteſtants are al<g ref="char:EOLhyphen"/>lowed to <hi>exerciſe juriſdictions and procurations under the Clergie of Rome,</hi>
+               <note place="margin">
+                  <hi>Ibid. Art.</hi> 10.</note> 
+               <hi>if ſo be they do not con<g ref="char:EOLhyphen"/>cerne that which they call ſpirituality.</hi> Alſo to be farmers of Tithes,
+<note place="margin">
+                  <hi>Art.</hi> 2.</note> Priories and Church-demeanes; Which ſheweth that when they forbid Paſtors to poſſeſſe any land, under the title of Paſtors,
+<note place="margin">
+                  <hi>Cap.</hi> 1 <hi>art.</hi> 40</note> it is not becauſe they diſ<g ref="char:EOLhyphen"/>allow that the Church ſhould poſſeſſe de<g ref="char:EOLhyphen"/>meanes; But becauſe in the preſent povertie and paritie, if ſome few had Livings, and the reſt none, they conceive it would breed envie and factions in the Church.</p>
+            <pb n="33" facs="tcp:11478:20"/>
+            <p>As for Holy-dayes, they obſerve reve<g ref="char:EOLhyphen"/>rently the dayes of Chriſtmas, Eaſter, Aſ<g ref="char:EOLhyphen"/>cenſion, and Pentecoſt. And where they have Sermons upon Week dayes (as at <hi>Cha<g ref="char:EOLhyphen"/>renton</hi> by <hi>Paris</hi> upon Thurſdayes) they will change the day, when there is a Holy-day of ſome note in the weeke. This is <hi>Calvins</hi> counſell upon that point; <hi>I would have you conſtant in re<g ref="char:EOLhyphen"/>fuſing Holy-dayes; yet ſo,</hi>
+               <note place="margin">
+                  <hi>Calvini Epiſtola ad Montbelgar<g ref="char:EOLhyphen"/>denſes.</hi> In feſtis non recipiendis cuperem vos eſſe conſtantiores, ſic tamen ut non litigetis de qui<g ref="char:EOLhyphen"/>buſlibet, ſed de iis tantum, quae nec in aedificanonem quicquam factura ſunt, &amp; ſuperſtitionem prima ipſa facie prae ſe ferunt. — Nam in papatu magna celebritate Conceptionem &amp; Aſ<g ref="char:EOLhyphen"/>cenſionem Virginis coluerunt.</note> 
+               <hi>that you picke not a quarrell with every Holy-day, but with thoſe onely that are not at all for edifica<g ref="char:EOLhyphen"/>tion, and beare a ſtamp of ſuperſti<g ref="char:EOLhyphen"/>tion in the front;</hi> And he giveth them for example, <hi>the feaſts of the Conception and Aſcenſion of the bleſſed Virgin,</hi> which are alſo refuſed by the Engliſh Church. But generally of all Holy-dayes; the French Diſcipline com<g ref="char:EOLhyphen"/>mandeth,
+<note place="margin">
+                  <hi>Cap.</hi> 14. <hi>Art.</hi> 21.</note> that <hi>No ſcandall ſhall bee com<g ref="char:EOLhyphen"/>mitted, by working on dayes appointed to reſt, according to the Kings Edict;</hi> And it were to bee wiſhed, that the Scots were no more refractarie to their good King, the pious Defender of their Faith, than
+<pb n="34" facs="tcp:11478:21"/>the French Proteſtants are to their Sove<g ref="char:EOLhyphen"/>raigne, though of contrary religion, even in thoſe points of Eccleſiaſticall Diſci<g ref="char:EOLhyphen"/>pline.</p>
+            <p>How they ſtand affected in all points of Ceremonies and outward Order, you may ſee by their Confeſſion preſented to the Emperour, and the Princes of Germanie. <hi>Wee acknowledge, that both all Churches,</hi>
+               <note place="margin">
+                  <hi>Confeſſ. Eccleſ. Gallicar. inter Opu<g ref="char:EOLhyphen"/>ſcula Calvini.</hi> Fatemur tum omnes tum ſingulas Eccleſias hoc jus ha<g ref="char:EOLhyphen"/>bere, ut leges et ſtatuts ſibi conda<g ref="char:cmbAbbrStroke">̄</g>t ad politiam communem inter ſuos conſt ituendam, cum omnia in domo Dei ritè &amp; ordine fieri o<g ref="char:EOLhyphen"/>porteat. Ejuſmodi porto ſtatutis obedientiam deferendam eſſe, modò ne conſcientias aſtringant, neque ſuperſtitio illis adhibeatur: Qui hoc detrectent cerebroſi &amp; pervicaces apud nos habentur.</note> 
+               <hi>and every Church, have that right to make Lawes and Sta<g ref="char:EOLhyphen"/>tutes for themſelves; to eſtabliſh a publike Order among their own peo<g ref="char:EOLhyphen"/>ple, ſince all things muſt be done in the Houſe of God decently and with order; and that obedience muſt bee yeelded to ſuch ſtatutes, ſo they doe not binde the conſciences, and no ſuperſtition be mingled with them: Thoſe that will doe againſt this, we hold them peeviſh and ſtubborne people.</hi>
+            </p>
+            <p>You have heard <hi>Beza</hi> before perſwa<g ref="char:EOLhyphen"/>ding the Engliſh brethren to obedience unto their Prelates. In the ſame Epiſtle hee tells them, That <hi>the Surplice is of no ſuch importance, that the Miniſters ſhould leave
+<pb n="35" facs="tcp:11478:21"/>their function,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Blza ad queſdam Anglicar. Eccleſia<g ref="char:EOLhyphen"/>rum fratres.</hi> Non videntur iſta tanti momenti, ut propterea vel Paſtoribus deſerendum potius ſit Miniſterium, quam ut veſtes illas aſſumant; vel gregibus omitten<g ref="char:EOLhyphen"/>dum publicurn pabulum, potius quam ita veſtitos Paſtores au<g ref="char:EOLhyphen"/>diant.</p>
+                  <p>
+                     <hi>Jbid.</hi> De geniculatione in Coena, De cantu Eccleſiae, Crucis conſig<g ref="char:EOLhyphen"/>natione, Puerorum baptizando<g ref="char:EOLhyphen"/>tum interrogatione, non eſt mag<g ref="char:EOLhyphen"/>nopere laborandum.</p>
+               </note> 
+               <hi>rather than weare that garment; and the people ſhould leave the publike food</hi> [of Gods Word] <hi>rather than heare the Paſtors that weare it;</hi> Like<g ref="char:EOLhyphen"/>wiſe <hi>for kneeling at the Commu<g ref="char:EOLhyphen"/>nion, Church-muſicke, the Croſſe in Baptiſme, and asking queſtions to children in Baptiſme,</hi> He thus delivereth his opinion, <hi>De his non eſt magnope<g ref="char:EOLhyphen"/>re laborandum;</hi> One ſhould not trouble him<g ref="char:EOLhyphen"/>ſelfe much about ſuch things. And <hi>Calvin</hi> praiſeth <hi>Hooper</hi> for oppoſing himſelfe man<g ref="char:EOLhyphen"/>fully againſt the Extreme Vnction; but bla<g ref="char:EOLhyphen"/>meth him for being too obſtinate againſt the Cope and Surplice.</p>
+            <p>The French Proteſtants keepe their zeale of religion for higher matters,
+<note place="margin">
+                  <hi>Calvinus Bullin<g ref="char:EOLhyphen"/>gero pag.</hi> 98. <hi>E<g ref="char:EOLhyphen"/>dit onis Gene<g ref="char:EOLhyphen"/>venſis, an</hi> 1576</note> than a Sur<g ref="char:EOLhyphen"/>plice or a Croſſe in Baptiſme; and won<g ref="char:EOLhyphen"/>der much, that for ſuch ſmall things, you would parallell them with Antichriſt, that maintaine the ſame holy Faith with you.</p>
+            <p>But if thoſe ceremonies be a yoke upon your conſciences, the yoke is removed; and his Majeſty is graciouſly pleaſed not to urge them upon you; which would never have
+<pb n="36" facs="tcp:11478:22"/>bin granted, if the King and his Councell had thought them to be in their nature ne<g ref="char:EOLhyphen"/>ceſſary, and binding the conſcience. And though Epiſcopall order (which the King will have you to receive) were a yoke up<g ref="char:EOLhyphen"/>on your conſciences; Thinke on the other ſide, that rebelling againſt your Soveraign, is a ſtaine upon your conſciences; And you are no good Divines, if you chooſe rather a foule ſtaine then a light yoke. Neither doe you conſider, that you may ſuffer a wrong in your Chriſtian liberty, without wrong<g ref="char:EOLhyphen"/>ing your conſcience; as <hi>Beza</hi> ſaith very worthily,
+<note place="margin">
+                  <hi>Beza Epiſtola e<g ref="char:EOLhyphen"/>adem.</hi> Poſſunt ae etiam de<g ref="char:EOLhyphen"/>bent multa to<g ref="char:EOLhyphen"/>lerari, quae ta<g ref="char:EOLhyphen"/>men non recte praecipiuntur.</note> 
+               <hi>Many things may, yea, and muſt be borne with, which are not rightly injoyned;</hi> For ſpirituall libertie lieth not in the out<g ref="char:EOLhyphen"/>ward act, but in the intention and beliefe. If a thing wicked in it ſelfe be injoyned un<g ref="char:EOLhyphen"/>to us, it muſt neither be obeyed in the act, nor aſſented unto in the underſtanding and the will; But if the thing be indifferent in it ſelfe, and yet ſeeme in the judgement inconvenient, we may and muſt do it, and neither wrong our libertie, nor our conſci<g ref="char:EOLhyphen"/>ence; for in ſuch caſes our actions are limi<g ref="char:EOLhyphen"/>ted, though our conſciences be free, and the
+<pb n="37" facs="tcp:11478:22"/>ſuperiour power may binde us <hi>in foro exte<g ref="char:EOLhyphen"/>riori,</hi> and leave us free <hi>in foro interiori,</hi> where<g ref="char:EOLhyphen"/>in Chriſtian libertie lieth. <hi>Spirituall libertie,</hi>
+               <note place="margin">
+                  <hi>Calvin Instit. l.</hi> 4 <hi>c.</hi> 20. <hi>Art.</hi> 1. Spiritualis li<g ref="char:EOLhyphen"/>bertas cum po<g ref="char:EOLhyphen"/>litica ſervitute optime ſtare poteſt.</note> 
+               <hi>and politicall bondage, will ſtand very well toge<g ref="char:EOLhyphen"/>ther,</hi> ſaith <hi>Calvin.</hi>
+            </p>
+            <p>And let not the conſequence trouble you; As long as the thing commanded is lawfull in it ſelfe, we are not anſwerable of the conſequence that may follow, but they that command it; and we that move in the inferiour orbe of obedience, muſt quietly follow the motions of the higher ſpheare of authoritie: To pull againſt it inconſide<g ref="char:EOLhyphen"/>rately, under pretence of Gods ſervice, is daſhing the ſecond Table againſt the firſt, and breaking both; <hi>That man abuſeth Chri<g ref="char:EOLhyphen"/>stian libertie,</hi>
+               <note place="margin">
+                  <hi>Beza Epist.</hi> 24. <hi>ad peregrinarum Ec<g ref="char:EOLhyphen"/>cleſiarum in Anglia fratres.</hi> Conſe<g ref="char:EOLhyphen"/>quitur eum abuti Chriſtianae li<g ref="char:EOLhyphen"/>bert tis beneficro, qui vel ſuis Ma<g ref="char:EOLhyphen"/>giſtratibus, vel praepoſitis ſuis ſponte non paret in Domino, nec conſcientiam fratrum aedificare ſtudet.</note> 
+               <hi>or rather is yet ſold under ſinne, that will not with a free will obey in the Lord his Ma<g ref="char:EOLhyphen"/>giſtates or Superiours, and ſeek<g ref="char:EOLhyphen"/>eth not to edifie the conſciences of his brethren,</hi> ſaith <hi>Beza.</hi>
+            </p>
+            <p>But though it were a thing granted, that the orders impoſed upon you by his Maje<g ref="char:EOLhyphen"/>ſtie, are not indifferent, but ungodly and Antichriſtian: Are you therefore allowed
+<pb n="38" facs="tcp:11478:23"/>to defend Religion with rebellion? Will ye call the Divell to the helpe of God? Sure it is a prodigious kinde of Chriſtian libertie, for a ſubject to draw his ſword againſt his Soveraigne. You that ſtand ſo much up<g ref="char:EOLhyphen"/>on the point of conſcience, Ought ye not <hi>to be ſubject for conſciences ſake?</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 13.5.</note> Were your So<g ref="char:EOLhyphen"/>veraigne unjuſt and froward, and his com<g ref="char:EOLhyphen"/>mands injurious unto God, Had ye inſtead of our pious Defender of the faith, a fierce <hi>Diocleſian. Illud ſolis precibus et patientia ſa<g ref="char:EOLhyphen"/>nari poteſt,</hi> Nothing will mend it but pray<g ref="char:EOLhyphen"/>ers and patience.
+<note place="margin">Beza ibib.</note> It is <hi>Beza's</hi> counſell to the diſcontented brethren of England, confor<g ref="char:EOLhyphen"/>mable to that of S. <hi>Peter, For it is better if the will of God be ſo that ye ſuffer for well doing,</hi>
+               <note place="margin">1 <hi>Pet.</hi> 3.17.</note> 
+               <hi>then for evill doing.</hi> If the Soveraigne come to kill the ſubject for his religion, The ſub<g ref="char:EOLhyphen"/>ject muſt yeeld him his throate, not charge his Pike againſt him.</p>
+            <p>
+               <hi>Calvin</hi> lived in the time of the hotteſt perſecutions, and had credit enough to have made the people to take armes to de<g ref="char:EOLhyphen"/>fend the libertie of their conſciences; But this is his doctrine; <hi>If we be perſecuted for godlineſſe by an impious and ſacrilegious Prince,
+<pb n="39" facs="tcp:11478:23"/>Let us firſt of all remember our ſins which no doubt are corrected by God with ſuch ſcourges;</hi>
+               <note place="margin">
+                  <hi>Calvin. Inſtit. l.</hi> 4. <hi>c.</hi> 20. <hi>art.</hi> 29. Si ab impio &amp; ſacrilego Principe vexamur ob pietatem, ſubeat pri<g ref="char:EOLhyphen"/>mum delictorum noſtrorum re<g ref="char:EOLhyphen"/>cordatio, quae talibus haud dub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Domini flagellis caſtigantur; In<g ref="char:EOLhyphen"/>de humilitas impatientiam no<g ref="char:EOLhyphen"/>ſtram fraenabit; Succurrat deinde haec cogitatio, non noſtrum eſſe hu juſmodi malis mederi; hoc tantum eſſe reliquum, ut Domini opem imploremus, cujus in manu ſunt regum corda &amp; regnorum inclinationes.</note> 
+               <hi>This will bridle our impatience with humilitie; Then let this thought come into our minds, That it is not our part to mend ſuch evils; And this only remaineth unto us, even to call upon Gods helpe, in whoſe hand are the hearts of Kings, and the in<g ref="char:EOLhyphen"/>clinations of Kingdomes.</hi>
+            </p>
+            <p>And whereas in the ſame Chapter, he teacheth, that in caſe the King command a<g ref="char:EOLhyphen"/>ny thing contrary to Gods command, we muſt obey God rather then men; he will not have Chriſtians to fight for righteouſ<g ref="char:EOLhyphen"/>neſſe, but to ſuffer for righteouſneſſe:
+<note place="margin">
+                  <hi>Ibid. art. vlt.</hi> Hac nos cogi<g ref="char:EOLhyphen"/>tatione conſo<g ref="char:EOLhyphen"/>lemur, illam tum nos prae<g ref="char:EOLhyphen"/>ſtare quam De<g ref="char:EOLhyphen"/>us exigit obe<g ref="char:EOLhyphen"/>dientiam, dum quidvis perpe<g ref="char:EOLhyphen"/>timur potius quam a pietate deflectamus.</note> 
+               <hi>Let this thought comfort us,</hi> ſaith he, <hi>that we yeeld</hi> (unto the King) <hi>that obedience which God re<g ref="char:EOLhyphen"/>quireth, when we ſuffer any thing, rather than turne aſide from Godlineſſe.</hi>
+            </p>
+            <p>And how the good man was averſe from taking armes againſt a Soveraigne, under pretence of religion; he ſheweth it in his Epiſtle to <hi>Francis</hi> the firſt of France, <hi>If any</hi> (ſaith he) <hi>under colour of the Goſpell trouble
+<pb n="40" facs="tcp:11478:24"/>your ſtate,</hi>
+               <note place="margin">
+                  <hi>Calvin. Epiſt. ad Franciſcum</hi> 1. <hi>Regem, quae eſte ante Inſtitutiones.</hi> Quod ſi qui ſub praetextu Evange<g ref="char:EOLhyphen"/>lii tumultuantur (quales hactenus in regno tuo fuiſſe non comper<g ref="char:EOLhyphen"/>tum eſt) ſunt leges &amp; legum poe<g ref="char:EOLhyphen"/>nae, quibus pro meritis graviter exerceantur; Modò ne interim Evangelium Dei ob ſceleſtorum hominum nequitiam male audiat.</note> 
+               <hi>(and hitherto there hath beene none ſuch in your Kingdome) there are lawes and penall ſtatutes, to repreſſe them ſeverally, according to their de<g ref="char:EOLhyphen"/>ſerts; ſo that in the meane while the Goſpell of God be not defa<g ref="char:EOLhyphen"/>med for the malice of wicked men.</hi>
+            </p>
+            <p>And after many juſt complaints to the King for the fearefull executions uſed a<g ref="char:EOLhyphen"/>gainſt his partie,
+<note place="margin">
+                  <hi>Ibid.</hi> Sin vero ita aures tuas oc<g ref="char:EOLhyphen"/>cupant malevolorum ſuſurri, ut nullus ſit reis pro ſe dicendi locus, importunae vero illae Furiae, te connivente, ſemper vinclis, fla<g ref="char:EOLhyphen"/>gris, equuleis, ſectionibus, incen<g ref="char:EOLhyphen"/>diis ſaeviunt: Nos quidem ut oves mactationi deſtinatas ad extrema quaeque redigemur; ſic tamen ut in patientia noſtra poſſideamus a<g ref="char:EOLhyphen"/>nimas noſtras, &amp; manum Domini fortem expectemus, quae indubie in tempore aderit.</note> he endeth thus, <hi>We indeed like ſheepe kept for theſlaughter, may be brought to any extremity; yet ſtill we will poſſeſse our ſoules in patience, and looke for the mightie hand of God, which cer<g ref="char:EOLhyphen"/>tainly will aſsist us in due time.</hi>
+            </p>
+            <p>Theſe are the armes, the forces, and the munitions, which the Church of that time oppoſed to their Soveraigne, in time of perſecution. And not to loade this Epiſtle with teſtimonies of the late French Wri<g ref="char:EOLhyphen"/>ters; The Churches of France have lately declared to his Majeſties Ambaſſador
+<pb n="41" facs="tcp:11478:24"/>there, their utter diſlike of the inſurrection of Scotland, under pretence of a Covenant with Chriſt.</p>
+            <p>But I ſee an objection comming, which (as farre as I can gheſſe) hath prevailed with many, to draw them to the preſent inſurre<g ref="char:EOLhyphen"/>ction: That let the French Churches give never ſo good counſell of obedience, yet their actions give to the Scots a preſident to take armes for the defence of their religion. And this is likely that which made the Co<g ref="char:EOLhyphen"/>venanters ſay in one of their Petitions to his Majeſty,
+<note place="margin">
+                  <hi>Pag.</hi> 417. <hi>of his Majesties large Declaration.</hi>
+               </note> that <hi>the neighbour Churches would approve all their proceedings.</hi>
+            </p>
+            <p>I might anſwer, that the caſe is not alike; the two Courts of Great Britaine and France being ſo different in Religion, and the Scots not being preſt to alter their Reli<g ref="char:EOLhyphen"/>gion, as the French were for a long time: But becauſe there can be no juſt cauſe to take armes againſt a lawfull Soveraigne, two things may be ſaid to that objection.</p>
+            <p>Firſt, that to take counſell of a friend, you muſt take him when he is in cold blood, not when he is drawing his ſword. Looke to the opinions and behaviour of
+<pb n="42" facs="tcp:11478:25"/>their Divines, not to the actions of ſome raſh heads.</p>
+            <p>Next, if you look how they have done, you muſt look alſo how they have ſped, and you ſhall have little encouragement to fol<g ref="char:EOLhyphen"/>low their example.</p>
+            <p>But not to wrong my Countreymen; If you read their Hiſtory from the yeare 1560. when the civill warres begun, you ſhall finde, that moſt part of the time their warres had ſuch and ſo important occaſi<g ref="char:EOLhyphen"/>ſions, as your party cannot bring for the preſent diſorders.</p>
+            <p>
+               <hi>Henry</hi> the II. of France died about the yeare 1560. leaving foure ſonnes under age, the eldeſt whereof, <hi>Francis</hi> the II. raigned little above one yeare, and his brother <hi>Charles</hi> the IX. was ſome ten yeares old when he began to raigne. During the mi<g ref="char:EOLhyphen"/>nority of theſe Kings, the Queene mother, by the aſſiſtance of the houſe of <hi>Guiſe,</hi> exclu<g ref="char:EOLhyphen"/>ded the Princes of the blood from the pro<g ref="char:EOLhyphen"/>tection of the Kings perſon and kingdome, which was their right. The Princes being Proteſtants, and finding a diſcontented par<g ref="char:EOLhyphen"/>ty, who, for the ſpace of wellnigh forty
+<pb n="43" facs="tcp:11478:25"/>yeares, had ſuffered a moſt fierce perſecuti<g ref="char:EOLhyphen"/>on, eaſily drew to their ſide all the Prote<g ref="char:EOLhyphen"/>ſtants of France; and ſo twiſted their inter<g ref="char:EOLhyphen"/>eſts with the intereſt of Religion, that they never made a peace for themſelves alone, but for the whole party: By which ſeverall peaces they got Edicts in their favour, and places of defence, and grew a conſiderable party.</p>
+            <p>King <hi>Charles</hi> the IX. being come to age, and finding a troubled State, ſought to quench with blood the fire kindled in his kingdome; and by a treacherous match of his ſiſter with the young King of Navarre, got the Heads of the Proteſtants to Paris, and there ſlew them. This was the famous feaſt of S. <hi>Bartholomew</hi> 1572. upon which, and ſome moneths after, there was above foureſcore thouſand of the Proteſtant party killed in cold blood throughout all the kingdome.</p>
+            <p>This uſage, though it cannot juſtifie the Proteſtants for taking armes afterwards for their defence, yet it taketh away great part of the reproach; it being no wonder, if thoſe that have ſuffered more than nature
+<pb n="44" facs="tcp:11478:26"/>can beare, will doe more than duty can ju<g ref="char:EOLhyphen"/>ſtifie.</p>
+            <p>
+               <hi>Charles</hi> the IX. being dead two yeares af<g ref="char:EOLhyphen"/>ter the Maſſacre, <hi>Henry</hi> the III. ſucceeded, who being of a milder temper than his brother, the Proteſtants enjoyed ſome quiet for a while; which his Popiſh ſubjects diſliking, (or rather, his mother, whoſe or<g ref="char:EOLhyphen"/>dinary courſe was, to keep her authority by publike diviſions) the League began pre<g ref="char:EOLhyphen"/>ſently for the extirpation of the Proteſtant party, without the Kings conſent; yet the King, being a timorous man, was drawne to it perforce, in the end; In the meane while, the King of Navarre and the reſt of the Proteſtants ſtood upon their defence; I will not determine whether they ought to have yeelded their throats to the ſlaughter, the perſecution being not raiſed againſt them by their Soveraigne, but by a Cove<g ref="char:EOLhyphen"/>nant of his ſubjects with the Pope and the King of Spaine, before the King had given way to it; But the King himſelfe ſoone ju<g ref="char:EOLhyphen"/>ſtified their armes; for perceiving that the League was a yoke upon his owne necke, which deveſted him of his right, and
+<pb n="45" facs="tcp:11478:26"/>brought into the kingdome another autho<g ref="char:EOLhyphen"/>rity than his own; he renounced the League, and called the King of Navarre, and the Proteſtants to his aid, who did him faithfull ſervice with great alacrity and valour; till the King being dead in the yeare 1589. the right of the Crowne fell to the Head of their party, the King of Navarre, whom by Gods bleſſing, and their valour, they raiſed to the Throne, and helped him not onely with their ſword, but maintained him with their purſes, and did him ſuch ſervices as could not be repaid.</p>
+            <p>King <hi>Henry</hi> the IV. having removed from the League all pretences of bearing armes againſt him as an Hugonot, by for<g ref="char:EOLhyphen"/>ſaking the reformed Religion, to our infi<g ref="char:EOLhyphen"/>nite griefe and loſſe; And ſeeing his Prote<g ref="char:EOLhyphen"/>ſtant party juſtly diſcontented, granted them liberty of Religion, and a leaſe for yeares of certaine places of ſafety, which (as the French Proteſtants expound it) would have been to no purpoſe, had it not been to defend themſelves by way of armes when they ſhould be vexed. So they did afterwards, when King <hi>Lewis</hi> now
+<pb n="46" facs="tcp:11478:27"/>reigning redemanded thoſe places, and would continue the leaſe no longer.</p>
+            <p>Till the reigne of King <hi>Lewis</hi> the armes of the Proteſtants were either juſtifiable, or excuſable, But their wars in his time were neither; and they proſpered accordingly.</p>
+            <p>Their firſt and greateſt fault was in the yeares 1615. and 1616. when they joyned with the Prince of Conde to croſſe the Kings match with Spaine; yet by the per<g ref="char:EOLhyphen"/>ſwaſions of my reverend Father, living then in Paris, all the Churches on this ſide Loire, that is, one halfe of France, kept themſelves in the Kings obedience; for which the Queene Regent gave him thanks.</p>
+            <p>But the injurieſtuck ſo deep in the Kings ſtomack, that five yeares after he would have all his places from the Proteſtants: who when they ſtood ſtifly for the keep<g ref="char:EOLhyphen"/>ing of thoſe places in the
+<note n="*" place="margin">The aſſembly of Rochell was a politicall aſſem<g ref="char:EOLhyphen"/>bly, ſuch as the Protestants were allowed then to keepe.</note> Aſſembly of Rochell, my Father being at the ſame time Preſident of the Nationall Synod at Alaix, ſtood for obedience with much eagerneſſe, and after the diſſolution of the Synod,
+<note place="margin">The Copy of that Letter is by me.</note> writ to the Aſſembly a large letter, to perſwade
+<pb n="47" facs="tcp:11478:27"/>them by reaſons both of conſcience and prudence, rather to ſuffer for the Goſpell, than ſtand in Armes againſt their Sove<g ref="char:EOLhyphen"/>raigne. But the Aſſembly being ruled by violent men, choſe the counſels of warre, and drew the Kings armes upon many that were moſt deſirous of obedience. What miſeries we have ſuffered by the raſhneſſe of few men, and the weak eſtate we were brought to by theſe violent courſes, we think on it with bitter grief: Our wounds are freſh, and are like to bleed till the poore Church bleed out her life, if God be no more mercifull to us, than we have been to our ſelves.</p>
+            <p>In one point I am afraid that you ſhall be like us, if you go on in your courſe. For whereas moſt of the Kings ſubjects in Scotland are miſled, and would gladly o<g ref="char:EOLhyphen"/>bey his Majeſty, if their Landlords and leaders would give them leave: It is to be feared, that the Kings artillery ſhall make little diſtinction between good hearts and falſe hearts.</p>
+            <p>I beſeech you, ſince you claime confor<g ref="char:EOLhyphen"/>mity with the French, compare your caſe
+<pb n="48" facs="tcp:11478:28"/>with theirs. The French Proteſtants had to do with a King of contrary religion; They were incenſed by many wrongs and op<g ref="char:EOLhyphen"/>preſſions; They were in danger (in al likely<g ref="char:EOLhyphen"/>hood) to loſe with their townes and forts, their liberty, their religion, and their life; The priveledges which they enjoyed, were rewards of their long ſervices. By the Charter of Rochell, when they yeelded to <hi>Lewis</hi> the XI. it was granted to them, that they ſhould bee no longer the Kings ſub<g ref="char:EOLhyphen"/>jects, then the King ſhould maintaine their immunittes; And yet theſe true reaſons and juſt feares, could not juſtifie their de<g ref="char:EOLhyphen"/>fenſive armes againſt their Soveraigne, but they were condemned by the beſt of their owne, and of their neighbours; and God ſhewed his diſlike, by the ill ſucceſſe he gave them.</p>
+            <p>What approbation then of all good men, what bleſſing of God may the Cove<g ref="char:EOLhyphen"/>nanters hope for, by ſtanding in armes a<g ref="char:EOLhyphen"/>gainſt their good King, a Prince in piety and clemency without parallell, who never provoked them by any ill uſage, but rather favoured them above their fellow ſubjects?</p>
+            <pb n="49" facs="tcp:11478:28"/>
+            <p>It may doe you good to obſerve, that the violent Counſellors of war in the aſſembly of Rochell, ſoone after betrayed their party, and ſold their places: Others turned Papiſts and were rewarded for it; which ſheweth, that they were wonne before to thruſt their party into a precipice, whence there was no way to get out. But the great Counſellour of peace, my Reverend Father, at that very time was forced to flie for his life out of the Kingdome, and leave his meanes behinde him, being maligned becauſe by the reſpect of his preſence, and his powerfull perſwa<g ref="char:EOLhyphen"/>ſions, he kept the people in the Kings obe<g ref="char:EOLhyphen"/>dience, which was the greateſt croſſing of the deſignes of our adverſaries, who being fully bent upon our undoing, wanted but a pretence. I feare alſo that when God re<g ref="char:EOLhyphen"/>vealeth the ſecrets of the hearts, Some fierce Covenanters ſhall be found Iefuites, whoſe purpoſe was to make the King loſe one way or other, that ſupremacie which the Pope challengeth, and howſoever, to get profit by our harmes.</p>
+            <p>I would deſire you alſo to learne by our faults and misfortunes, that in a Covenant
+<pb n="50" facs="tcp:11478:29"/>againſt a lawful and undoubted Soveraign, there muſt needs be in the end a great deale of diſunion. Our Deputies in the Aſſembly of Rochell, ſent their orders over all the kingdome, but they were not followed: And when the King appeared with an ar<g ref="char:EOLhyphen"/>mie, many turned to his ſide, and weakned their owne party. Likewiſe when his Ma<g ref="char:EOLhyphen"/>jeſtie ſhall come to you to make himſelfe o<g ref="char:EOLhyphen"/>beyed, either with the terrour or the ſmart of his Royall ſword, be ſure that you ſhall ſee the ſame diſunion among you; Neither ſhall your Covenant beable to keepe all to<g ref="char:EOLhyphen"/>gether; But the preſence of their naturall Prince, and his anger armed with ſtrength, will ſtrike a greater awe in the hearts of his ſubjects, than any order of your tables.</p>
+            <p>It is with Politicke bodies as with quick<g ref="char:EOLhyphen"/>ſilver, which is eaſily ſtirred and divided; But divide it never ſo much, all the ſeverall parts will of themſelves meet in their center againe; for it muſt be a very great violence that will quench nature, and when you have done all, the King will be King.</p>
+            <p>God give you all grace to learne wiſe<g ref="char:EOLhyphen"/>dome by the faults of your neighbours;
+<pb n="51" facs="tcp:11478:29"/>And to the Churches of France ſo much bleſſedneſſe, that for a full agreement in all points with their King and his Clergie, there be nothing wanting on their parts but to receive Biſhops.</p>
+            <p>If you diſſent from me in theſe points of Diſcipline and Obedience, you muſt beare with me, for this tincture, I have kept from the education which I received at home. But I hope you will receive this advice of mine, with the ſame minde as it is given, that is with charity and a ſincere deſire to ſee God glorified, and the Church at peace, and the King obeyed.</p>
+            <p>Which is the ſubject of the daily pray<g ref="char:EOLhyphen"/>ers of</p>
+            <closer>
+               <signed>Your friend and ſervant in Chriſt, <hi>Peter Du-Moulin</hi> the ſonne.</signed>
+               <dateline>
+                  <hi>Cheſter.</hi> 
+                  <date>March 1. 1639. 11. 1640.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
